@@ -1,0 +1,5 @@
+{
+    "port": 5000,
+    "jwtSecret": "Azniv Saroyan - Source",
+    "mongooseUri": "mongodb+srv://Azniv:9999@cluster0.9gvva.mongodb.net/Source?retryWrites=true&w=majority"
+}
